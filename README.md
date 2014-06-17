@@ -10,4 +10,4 @@ Which required and optional stories have you completed? **All required**
 - Add a UITextField with a background image.
 - Add UILabels with attributed text (instead of plain text), so that you can bold individual words.
 
-![Preview](https://s3.amazonaws.com/uploads.hipchat.com/72172/510168/8f8i6ozkMpE1O4K/fb-wk2.gif)
+![Preview](https://s3.amazonaws.com/uploads.hipchat.com/72172/510168/CMvqrc1dhacPktM/fb-her.gif)
